@@ -4,6 +4,7 @@ class Casmirx extends GetxController{
 
 var selectedLang = "English".obs;
 
+//Mock data for languages
 var allLanguages = [
   'English',
   'Español',
